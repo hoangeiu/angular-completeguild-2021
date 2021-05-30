@@ -1,0 +1,3 @@
+[submodule "ng10-complete-guide"]
+	path = ng10-complete-guide
+	url = https://github.com/hoangeiu/ng10-complete-guide.git
